@@ -7,7 +7,7 @@ var spotify = new Spotify(keys.spotify);
 var moment = require("moment");
 
 var command = process.argv[2];
-var movieName = process.argv[3];
+// var movieName = process.argv[3];
 var term = process.argv.slice(3).join(" ");
 var userChoice = function (command, term) {
 
@@ -17,7 +17,7 @@ var userChoice = function (command, term) {
             break;
 
         case "spotify-this-song":
-            spotify(term);
+            spotifyThis(term);
             break;
 
         case "movie-this":
@@ -46,24 +46,26 @@ var userChoice = function (command, term) {
             })
     }
 
-    // function spotify(userChoice) {
-    //     var song = userChoice;
+    function spotifyThis() {
 
-    //     if (!song) {
-    //         song = "The Sign by Ace of Base"
-    //     }
-    //     spotify.search({ type: "track", query: userChoice }, function (err, data) {
-    //         if (err) {
-    //             return console.log("Error ocurred: " + err);
-    //         }
+        if (!term) {
+            term = "The Sign by Ace of Base"
+        }
+        spotify.search({ type: "track", query: term }, function (err, data) {
+            if (err) {
+                return console.log("Error ocurred: " + err);
+            }
+            console.log(data.tracks.items)
+            var songInfo = data.tracks.items;
 
-    //         var songInfo = data.tracks.items;
-
-    //         for (i=0; i < songInfo.length; i++) {
-    //         console.log("Artist: " + data.track.items[0].artist[0].name);
-    //         };
-    //     })
-    // }
+            for (i=0; i < songInfo.length; i++) {
+            console.log("Artist: " + songInfo.artists[i].name);
+            console.log("Song: " + songInfo[i].name);
+            console.log("URL: " + songInfo[i].preview_url);
+            console.log("Album: " + songInfo.album[i].name);
+            };
+        })
+    }
 
 
     function omdbSearch(movie) {
