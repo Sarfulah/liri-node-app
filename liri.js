@@ -25,7 +25,7 @@ var userChoice = function (command, term) {
             break;
 
         case "do-what-it-says":
-            doWhatItSays(term);
+            doWhatItSays();
             break;
     }
     function bandsInTown(artist) {
@@ -41,7 +41,7 @@ var userChoice = function (command, term) {
 
                     fs.appendFileSync("log.txt", "\r\n" + "Venue: " + response.data[i].venue.name + "\r\n", "utf8");
                     fs.appendFileSync("log.txt", "\r\n" + "Location: " + response.data[i].venue.city + "\r\n", "utf8");
-                    fs.appendFileSync("log.txt", "\r\n" + "Date: " + moment(response.data[i].datetime, "YYYY-MM-DD").format("MM/DD/YYYY")  + "\r\n", "utf8");
+                    fs.appendFileSync("log.txt", "\r\n" + "Date: " + moment(response.data[i].datetime, "YYYY-MM-DD").format("MM/DD/YYYY") + "\r\n", "utf8");
                 }
             })
     }
@@ -55,14 +55,16 @@ var userChoice = function (command, term) {
             if (err) {
                 return console.log("Error ocurred: " + err);
             }
-            console.log(data.tracks.items)
-            var songInfo = data.tracks.items;
+            // console.log(data.tracks.items)
+            var songInfo = data.tracks.items[0];
 
-            for (i=0; i < songInfo.length; i++) {
-            console.log("Artist: " + songInfo.artists[i].name);
-            console.log("Song: " + songInfo[i].name);
-            console.log("URL: " + songInfo[i].preview_url);
-            console.log("Album: " + songInfo.album[i].name);
+            //console.log(songInfo)
+
+            for (i = 0; i < songInfo.artists.length; i++) {
+                console.log("Artist: " + songInfo.artists[i].name);
+                console.log("Song: " + songInfo.name);
+                console.log("URL: " + songInfo.preview_url);
+                console.log("Album: " + songInfo.album.name);
             };
         })
     }
@@ -92,6 +94,19 @@ var userChoice = function (command, term) {
                 fs.appendFileSync("log.txt", "\r\n" + "Actors: " + response.data.Actors + "\r\n", "utf8");
             })
     }
+
+    function doWhatItSays() {
+        fs.readFile("random.txt", "utf8", function (err, data) {
+            console.log(data)
+
+            var dataArray = data.split(",");
+            if (dataArray.length === 2) {
+                userChoice (dataArray[0], dataArray[1]);
+            } else if (dataArray.length === 1) {
+                userChoice (dataArray[0]);
+            }
+        });
+    };
 
 }
 userChoice(command, term);
