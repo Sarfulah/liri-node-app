@@ -38,10 +38,32 @@ var userChoice = function (command, term) {
                     console.log("Venue: " + response.data[i].venue.name);
                     console.log("Location: " + response.data[i].venue.city);
                     console.log("Date: " + moment(response.data[i].datetime, "YYYY-MM-DD").format("MM/DD/YYYY"));
+
+                    fs.appendFileSync("log.txt", "\r\n" + "Venue: " + response.data[i].venue.name + "\r\n", "utf8");
+                    fs.appendFileSync("log.txt", "\r\n" + "Location: " + response.data[i].venue.city + "\r\n", "utf8");
+                    fs.appendFileSync("log.txt", "\r\n" + "Date: " + moment(response.data[i].datetime, "YYYY-MM-DD").format("MM/DD/YYYY")  + "\r\n", "utf8");
                 }
             })
     }
-    // 
+
+    // function spotify(userChoice) {
+    //     var song = userChoice;
+
+    //     if (!song) {
+    //         song = "The Sign by Ace of Base"
+    //     }
+    //     spotify.search({ type: "track", query: userChoice }, function (err, data) {
+    //         if (err) {
+    //             return console.log("Error ocurred: " + err);
+    //         }
+
+    //         var songInfo = data.tracks.items;
+
+    //         for (i=0; i < songInfo.length; i++) {
+    //         console.log("Artist: " + data.track.items[0].artist[0].name);
+    //         };
+    //     })
+    // }
 
 
     function omdbSearch(movie) {
@@ -57,36 +79,18 @@ var userChoice = function (command, term) {
                 console.log("Language: " + response.data.Language);
                 console.log("Plot: " + response.data.Plot);
                 console.log("Actors: " + response.data.Actors);
-            })
 
+                fs.appendFileSync("log.txt", "\r\n" + "Title: " + response.data.Title + "\r\n", "utf8");
+                fs.appendFileSync("log.txt", "\r\n" + "Release Year: " + response.data.Year + "\r\n", "utf8");
+                fs.appendFileSync("log.txt", "\r\n" + "IMDB Rating: " + response.data.imdbRating + "\r\n", "utf8");
+                fs.appendFileSync("log.txt", "\r\n" + "Rotten Tomatoes: " + response.data.Ratings[1].Value + "\r\n", "utf8");
+                fs.appendFileSync("log.txt", "\r\n" + "Country: " + response.data.Country + "\r\n", "utf8");
+                fs.appendFileSync("log.txt", "\r\n" + "Language: " + response.data.Language + "\r\n", "utf8");
+                fs.appendFileSync("log.txt", "\r\n" + "Plot: " + response.data.Plot + "\r\n", "utf8");
+                fs.appendFileSync("log.txt", "\r\n" + "Actors: " + response.data.Actors + "\r\n", "utf8");
+            })
     }
 
 }
 userChoice(command, term);
 
-// Then run a request with axios to the OMDB API with the movie specified
-// var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
-
-// This line is just to help us debug against the actual URL.
-// console.log(queryUrl);
-
-//     .catch(function (error) {
-//         if (error.response) {
-//             // The request was made and the server responded with a status code
-//             // that falls out of the range of 2xx
-//             console.log("---------------Data---------------");
-//             console.log(error.response.data);
-//             console.log("---------------Status---------------");
-//             console.log(error.response.status);
-//             console.log("---------------Status---------------");
-//             console.log(error.response.headers);
-//         } else if (error.request) {
-//             // The request was made but no response was received
-//             // `error.request` is an object that comes back with details pertaining to the error that occurred.
-//             console.log(error.request);
-//         } else {
-//             // Something happened in setting up the request that triggered an Error
-//             console.log("Error", error.message);
-//         }
-//         console.log(error.config);
-//     });

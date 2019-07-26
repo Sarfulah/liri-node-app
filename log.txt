@@ -1,0 +1,858 @@
+
+Release Year: 2001
+
+Title: Shrek
+
+Release Year: 2001
+
+IMDB Rating: 7.9
+
+Rotten Tomatoes: 88%
+
+Country: USA
+
+Language: English
+
+Plot: A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+
+Actors: Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Venue: Letzigrund Stadium
+
+Venue: Tele2 Arena
+
+Venue: Telenor Arena
+
+Venue: Stadium Casa Arena
+
+Venue: VELTINS-Arena
+
+Venue: Malieveld Pavillion
+
+Venue: Rock in Rio
+
+Venue: Circuit Of the Americas
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Venue: Olympiastadion Munchen
+
+Location: Munchen
+
+Date: 2019-07-26T19:00:49
+
+Venue: Olympiastadion Munchen
+
+Location: Munchen
+
+Date: 2019-07-27T19:00:00
+
+Venue: Letzigrund Stadium
+
+Location: Zurich
+
+Date: 2019-07-30T19:00:25
+
+Venue: Tele2 Arena
+
+Location: Stockholm
+
+Date: 2019-08-03T19:00:03
+
+Venue: Telenor Arena
+
+Location: Oslo
+
+Date: 2019-08-05T19:00:16
+
+Venue: Stadium Casa Arena
+
+Location: Horsens
+
+Date: 2019-08-07T19:00:15
+
+Venue: VELTINS-Arena
+
+Location: Ge
+
+Date: 2019-08-09T19:00:36
+
+Venue: Malieveld Pavillion
+
+Location: Den Haag
+
+Date: 2019-08-11T19:00:14
+
+Venue: Rock in Rio
+
+Location: Rio De Janeiro
+
+Date: 2019-10-05T19:00:51
+
+Venue: Circuit Of the Americas
+
+Location: Austin
+
+Date: 2019-11-02T19:00:08
+
+Venue: Olympiastadion Munchen
+
+Location: Munchen
+
+Date: 07/26/2019
+
+Venue: Olympiastadion Munchen
+
+Location: Munchen
+
+Date: 07/27/2019
+
+Venue: Letzigrund Stadium
+
+Location: Zurich
+
+Date: 07/30/2019
+
+Venue: Tele2 Arena
+
+Location: Stockholm
+
+Date: 08/03/2019
+
+Venue: Telenor Arena
+
+Location: Oslo
+
+Date: 08/05/2019
+
+Venue: Stadium Casa Arena
+
+Location: Horsens
+
+Date: 08/07/2019
+
+Venue: VELTINS-Arena
+
+Location: Ge
+
+Date: 08/09/2019
+
+Venue: Malieveld Pavillion
+
+Location: Den Haag
+
+Date: 08/11/2019
+
+Venue: Rock in Rio
+
+Location: Rio De Janeiro
+
+Date: 10/05/2019
+
+Venue: Circuit Of the Americas
+
+Location: Austin
+
+Date: 11/02/2019
+
+Venue: Joe Squared
+
+Location: Baltimore
+
+Date: 07/26/2019
+
+Venue: SugarHouse Casino
+
+Location: Philadelphia
+
+Date: 07/27/2019
+
+Venue: Silver Legacy Resort Casino
+
+Location: Reno
+
+Date: 08/03/2019
+
+Venue: Edmonton Marriott at River Cree Resort
+
+Location: Edmonton
+
+Date: 08/17/2019
+
+Venue: PNE Amphitheatre
+
+Location: Vancouver
+
+Date: 08/20/2019
+
+Venue: Puyallup Fairgrounds
+
+Location: Puyallup
+
+Date: 09/12/2019
+
+Venue: Morongo Casino Resort and Spa
+
+Location: Cabazon
+
+Date: 09/20/2019
+
+Venue: Ilani Cowlitz Ballroom
+
+Location: Ridgefield
+
+Date: 09/22/2019
+
+Venue: Neal S. Blaisdell Center
+
+Location: Honolulu
+
+Date: 02/14/2020
+
+Venue: American Airlines Arena
+
+Location: Miami
+
+Date: 08/07/2019
+
+Venue: Amway Center
+
+Location: Orlando
+
+Date: 08/09/2019
+
+Venue: Amalie Arena
+
+Location: Tampa
+
+Date: 08/10/2019
+
+Venue: State Farm Arena
+
+Location: Atlanta
+
+Date: 08/12/2019
+
+Venue: PNC Arena
+
+Location: Raleigh
+
+Date: 08/14/2019
+
+Venue: Capital One Arena
+
+Location: Washington
+
+Date: 08/15/2019
+
+Venue: TD Garden
+
+Location: Boston
+
+Date: 08/17/2019
+
+Venue: Wells Fargo Center
+
+Location: Philadelphia
+
+Date: 08/18/2019
+
+Venue: Times Union Center
+
+Location: Albany
+
+Date: 08/19/2019
+
+Venue: Mohegan Sun Arena
+
+Location: Montville Center
+
+Date: 08/21/2019
+
+Venue: Scotiabank Arena
+
+Location: Toronto
+
+Date: 08/23/2019
+
+Venue: Scotiabank Arena
+
+Location: Toronto
+
+Date: 08/24/2019
+
+Venue: KeyBank Center
+
+Location: Buffalo
+
+Date: 08/27/2019
+
+Venue: Madison Square Garden
+
+Location: New York
+
+Date: 08/29/2019
+
+Venue: Madison Square Garden
+
+Location: New York
+
+Date: 08/30/2019
+
+Venue: Hersheypark Stadium
+
+Location: Hershey
+
+Date: 08/31/2019
+
+Venue: PPG Paints Arena
+
+Location: Pittsburgh
+
+Date: 09/03/2019
+
+Venue: Bryce Jordan Center
+
+Location: University Park
+
+Date: 09/04/2019
+
+Venue: Schottenstein Center
+
+Location: Columbus
+
+Date: 09/05/2019
+
+Venue: Little Caesars Arena
+
+Location: Detroit
+
+Date: 09/07/2019
+
+Venue: Van Andel Arena
+
+Location: Grand Rapids
+
+Date: 09/08/2019
+
+Venue: Bridgestone Arena
+
+Location: Nashville
+
+Date: 09/10/2019
+
+Venue: U.S. Bank Arena
+
+Location: Cincinnati
+
+Date: 09/11/2019
+
+Venue: Bankers Life Fieldhouse
+
+Location: Indianapolis
+
+Date: 09/13/2019
+
+Venue: Enterprise Center
+
+Location: St. Louis
+
+Date: 09/14/2019
+
+Venue: Xcel Energy Center
+
+Location: St Paul
+
+Date: 09/16/2019
+
+Venue: Fiserv Forum
+
+Location: Milwaukee
+
+Date: 09/17/2019
+
+Venue: United Center
+
+Location: Chicago
+
+Date: 09/19/2019
+
+Venue: United Center
+
+Location: Chicago
+
+Date: 09/20/2019
+
+Venue: Sprint Center
+
+Location: Kansas City
+
+Date: 09/22/2019
+
+Venue: American Airlines Center
+
+Location: Dallas
+
+Date: 09/25/2019
+
+Venue: Toyota Center
+
+Location: Houston
+
+Date: 09/26/2019
+
+Venue: AT&T Center
+
+Location: San Antonio
+
+Date: 09/27/2019
+
+Venue: BOK Center
+
+Location: Tulsa
+
+Date: 09/29/2019
+
+Venue: Pepsi Center
+
+Location: Denver
+
+Date: 10/01/2019
+
+Venue: Vivint Smart Home Arena
+
+Location: Salt Lake City
+
+Date: 10/03/2019
+
+Venue: Talking Stick Resort Arena
+
+Location: Phoenix
+
+Date: 10/05/2019
+
+Venue: Honda Center
+
+Location: Anaheim
+
+Date: 10/06/2019
+
+Venue: Chase Center
+
+Location: San Francisco
+
+Date: 10/08/2019
+
+Venue: Rogers Arena
+
+Location: Vancouver
+
+Date: 10/11/2019
+
+Venue: Tacoma Dome
+
+Location: Tacoma
+
+Date: 10/12/2019
+
+Venue: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+
+Location: Portland
+
+Date: 10/13/2019
+
+Venue: Golden 1 Center
+
+Location: Sacramento
+
+Date: 10/15/2019
+
+Venue: Pechanga Arena
+
+Location: San Diego
+
+Date: 10/17/2019
+
+Venue: MGM Grand Garden Arena
+
+Location: Las Vegas
+
+Date: 10/18/2019
+
+Venue: Hollywood Bowl
+
+Location: Los Angeles
+
+Date: 10/20/2019
+
+Venue: Hollywood Bowl
+
+Location: Los Angeles
+
+Date: 10/21/2019
+
+Venue: Auditorio Citibanamex
+
+Location: Monterrey
+
+Date: 10/27/2019
+
+Venue: Auditorio Citibanamex
+
+Location: Monterrey
+
+Date: 10/28/2019
+
+Venue: RB PALACIO DE LOS DEPORTES
+
+Location: Nuevo Mexico
+
+Date: 10/30/2019
+
+Venue: Palacio de los Deportes
+
+Location: Nuevo Mexico
+
+Date: 10/31/2019
+
+Venue: Arena VFG
+
+Location: Ojo De Agua De Los Negros
+
+Date: 11/02/2019
+
+Venue: Smoothie King Center
+
+Location: New Orleans
+
+Date: 11/12/2019
+
+Venue: Legacy Arena
+
+Location: Birmingham
+
+Date: 11/13/2019
+
+Venue: BB&T Center
+
+Location: Sunrise
+
+Date: 11/15/2019
+
+Venue: Amway Center
+
+Location: Orlando
+
+Date: 11/16/2019
+
+Venue: VyStar Veterans Memorial Arena
+
+Location: Jacksonville
+
+Date: 11/17/2019
+
+Venue: Infinite Energy Theater
+
+Location: Duluth
+
+Date: 11/19/2019
+
+Venue: Spectrum Center
+
+Location: Charlotte
+
+Date: 11/20/2019
+
+Venue: Prudential Center
+
+Location: Newark
+
+Date: 11/22/2019
+
+Venue: Barclays Center
+
+Location: Brooklyn
+
+Date: 11/23/2019
+
+Venue: TD Garden
+
+Location: Boston
+
+Date: 11/24/2019
+
+Venue: Scotiabank Arena
+
+Location: Toronto
+
+Date: 11/26/2019
+
+Venue: Bell Centre
+
+Location: Montreal
+
+Date: 11/27/2019
+
+Venue: Boardwalk Hall
+
+Location: Atlantic City
+
+Date: 11/29/2019
+
+Venue: Royal Farms Arena
+
+Location: Baltimore
+
+Date: 11/30/2019
+
+Venue: Allstate Arena
+
+Location: Rosemont
+
+Date: 12/03/2019
+
+Venue: CHI Health Center Omaha
+
+Location: Omaha
+
+Date: 12/04/2019
+
+Venue: American Airlines Center
+
+Location: Dallas
+
+Date: 12/06/2019
+
+Venue: Frank C Erwin Special Events Center
+
+Location: Austin
+
+Date: 12/07/2019
+
+Venue: Talking Stick Resort Arena
+
+Location: Phoenix
+
+Date: 12/10/2019
+
+Venue: Oracle Arena
+
+Location: Oakland
+
+Date: 12/12/2019
+
+Venue: The Forum
+
+Location: Los Angeles
+
+Date: 12/14/2019
+
+Venue: The Forum
+
+Location: Los Angeles
+
+Date: 12/15/2019
+
+Venue: Arena Birmingham
+
+Location: Birmingham
+
+Date: 01/29/2020
+
+Venue: 3Arena
+
+Location: Dublin
+
+Date: 01/31/2020
+
+Venue: The O2
+
+Location: London
+
+Date: 02/02/2020
+
+Venue: The SSE Arena Wembley
+
+Location: London
+
+Date: 02/03/2020
+
+Venue: SSE Hydro
+
+Location: Glasgow
+
+Date: 02/05/2020
+
+Venue: Manchester Arena
+
+Location: Manchester
+
+Date: 02/06/2020
+
+Venue: Lotto Arena
+
+Location: Antwerpen
+
+Date: 02/08/2020
+
+Venue: Mercedes-Benz Arena
+
+Location: Berlin
+
+Date: 02/10/2020
+
+Venue: Lanxess Arena
+
+Location: Köln
+
+Date: 02/11/2020
+
+Venue: Hallenstadion
+
+Location: Zürich
+
+Date: 02/13/2020
+
+Venue: Mediolanum Forum
+
+Location: Assago
+
+Date: 02/14/2020
+
+Venue: Wizin Center
+
+Location: Madrid
+
+Date: 02/16/2020
+
+Venue: Palau Sant Jordi
+
+Location: Barcelona
+
+Date: 02/17/2020
+
+Venue: SUD DE FRANCE ARENA
+
+Location: Pérols
+
+Date: 02/18/2020
+
+Venue: Ziggo Dome
+
+Location: Amsterdam Zuidoost
+
+Date: 02/20/2020
+
+Venue: AccorHotels Arena
+
+Location: Paris
+
+Date: 02/22/2020
+
+Venue: Joe Squared
+
+Location: Baltimore
+
+Date: 07/26/2019
+
+Venue: SugarHouse Casino
+
+Location: Philadelphia
+
+Date: 07/27/2019
+
+Venue: Silver Legacy Resort Casino
+
+Location: Reno
+
+Date: 08/03/2019
+
+Venue: Edmonton Marriott at River Cree Resort
+
+Location: Edmonton
+
+Date: 08/17/2019
+
+Venue: PNE Amphitheatre
+
+Location: Vancouver
+
+Date: 08/20/2019
+
+Venue: Puyallup Fairgrounds
+
+Location: Puyallup
+
+Date: 09/12/2019
+
+Venue: Morongo Casino Resort and Spa
+
+Location: Cabazon
+
+Date: 09/20/2019
+
+Venue: Ilani Cowlitz Ballroom
+
+Location: Ridgefield
+
+Date: 09/22/2019
+
+Venue: Neal S. Blaisdell Center
+
+Location: Honolulu
+
+Date: 02/14/2020
+
+Title: Boomerang
+
+Release Year: 1992
+
+IMDB Rating: 5.5
+
+Rotten Tomatoes: 44%
+
+Country: USA
+
+Language: English, French
+
+Plot: A successful executive and womanizer finds his lifestyle choices have turned back on him when his new female boss turns out to be an even bigger deviant than he is.
+
+Actors: Eddie Murphy, Robin Givens, Halle Berry, David Alan Grier
+
+Title: Coming to America
+
+Release Year: 1988
+
+IMDB Rating: 7.0
+
+Rotten Tomatoes: 67%
+
+Country: USA
+
+Language: English
+
+Plot: An extremely pampered African Prince travels to Queens, New York, and goes undercover to find a wife that he can respect for her intelligence and will.
+
+Actors: Paul Bates, Eddie Murphy, Garcelle Beauvais, Feather
