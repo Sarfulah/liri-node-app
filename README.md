@@ -16,6 +16,9 @@ Date: 02/14/2020
   ```
 
   and
+  
+  Ex: Search for spotify-this-song  sunday morning
+  node liri-node-app show (Artist, Song name, Preview link from spotify, and album)
 
   ```
   // Ex: Search for movie-this boomerang
@@ -34,7 +37,7 @@ Actors: Eddie Murphy, Robin Givens, Halle Berry, David Alan Grier
 * In these examples the liri-node-app expects input in the following format:
 
   ```
-  node liri-node-app <concert-this> <movie-this>
+  node liri-node-app <concert-this> <spotify-this-song> <movie-this>
   ```
 
 
