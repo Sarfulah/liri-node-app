@@ -7,7 +7,7 @@ var spotify = new Spotify(keys.spotify);
 var moment = require("moment");
 
 var command = process.argv[2];
-// var movieName = process.argv[3];
+var movieName = process.argv[3];
 var term = process.argv.slice(3).join(" ");
 var userChoice = function (command, term) {
 
@@ -65,6 +65,12 @@ var userChoice = function (command, term) {
                 console.log("Song: " + songInfo.name);
                 console.log("URL: " + songInfo.preview_url);
                 console.log("Album: " + songInfo.album.name);
+
+                fs.appendFileSync("log.txt", "\r\n" + "Artist: " + songInfo.artists[i].name + "\r\n", "utf8");
+                fs.appendFileSync("log.txt", "\r\n" + "Song: " + songInfo.name + "\r\n", "utf8");
+                fs.appendFileSync("log.txt", "\r\n" + "URL: " + songInfo.preview_url + "\r\n", "utf8");
+                fs.appendFileSync("log.txt", "\r\n" + "Album: " + songInfo.album.name + "\r\n", "utf8");
+                
             };
         })
     }

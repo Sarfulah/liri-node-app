@@ -856,3 +856,79 @@ Language: English
 Plot: An extremely pampered African Prince travels to Queens, New York, and goes undercover to find a wife that he can respect for her intelligence and will.
 
 Actors: Paul Bates, Eddie Murphy, Garcelle Beauvais, Feather
+
+Venue: Curacao North Sea Jazz Festival
+
+Location: Willemstad, Curaçao
+
+Date: 08/31/2019
+
+Venue: Seminole Hard Rock Hotel & Casino - Hollywood, FL
+
+Location: Hollywood
+
+Date: 10/25/2019
+
+Title: Elf
+
+Release Year: 2003
+
+IMDB Rating: 7.0
+
+Rotten Tomatoes: 83%
+
+Country: USA
+
+Language: English
+
+Plot: After discovering he is a human, a man raised as an elf at the North Pole decides to travel to New York City to locate his real father.
+
+Actors: Will Ferrell, James Caan, Bob Newhart, Edward Asner
+
+Venue: The Orleans Hotel & Casino
+
+Location: Las Vegas
+
+Date: 07/27/2019
+
+Venue: DAR Constitution Hall
+
+Location: Washington
+
+Date: 08/17/2019
+
+Venue: Greek Theatre
+
+Location: Los Angeles
+
+Date: 08/24/2019
+
+Venue: Concord Pavilion
+
+Location: Concord
+
+Date: 09/01/2019
+
+Venue: Grand Theater at Foxwoods Resort & Casino
+
+Location: Mashantucket
+
+Date: 09/21/2019
+
+Title: Home
+
+Release Year: 2015
+
+IMDB Rating: 6.6
+
+Rotten Tomatoes: 50%
+
+Country: USA
+
+Language: English, French
+
+Plot: An alien on the run from his own people makes friends with a girl. He tries to help her on her quest, but can be an interference.
+
+Actors: Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez
+
+Artist: Rihanna
