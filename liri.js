@@ -33,13 +33,18 @@ var userChoice = function (command, term) {
 
         axios.get(queryUrl).then(
             function (response) {
-                console.log(response.data[3]);
+                for (var i = 0; i < response.data.length; i++) {
+                    console.log(response.data[3]);
+                    console.log("Venue: " + response.data[i].venue.name);
+                    console.log("Location: " + response.data[i].venue.city);
+                    console.log("Date: " + moment(response.data[i].datetime, "YYYY-MM-DD").format("MM/DD/YYYY"));
+                }
             })
     }
     // 
-    
 
-    function omdbSearch (movie) {
+
+    function omdbSearch(movie) {
         var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
 
         axios.get(queryUrl).then(
@@ -53,7 +58,7 @@ var userChoice = function (command, term) {
                 console.log("Plot: " + response.data.Plot);
                 console.log("Actors: " + response.data.Actors);
             })
-        
+
     }
 
 }
